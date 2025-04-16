@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^9.6.0",
+    "@types/node": "^22.13.13"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  },
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  }
+}

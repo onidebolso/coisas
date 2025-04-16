@@ -1,0 +1,21 @@
+{
+  "pokemons": [
+    {
+      "id": 7,
+      "nome": "Squirtle",
+      "tipo": [
+        "agua"
+      ],
+      "nivel": 85,
+      "experiencia": 5000,
+      "energia": 100,
+      "ataque": 68,
+      "defesa": 54,
+      "dataCadastro": "2025-03-27T14:33:19.077Z",
+      "emBatalha": false,
+      "ultimoTreino": "2025-03-27T14:34:00.312Z",
+      "ultimoDescanso": "2025-03-27T14:34:21.135Z"
+    }
+  ],
+  "proximoId": 8
+}
